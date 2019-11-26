@@ -1,0 +1,20 @@
+.cardImg {
+    height : 250px;
+}
+
+.cardSize {
+    height : 370px;
+}
+
+.cardBod{
+    padding : 1rem;
+}
+
+.cardBtn {
+    width : 70%;
+    margin-right : 10px;
+    padding : 0px;
+}
+.cardtitle {
+    font-size: 1rem;
+}

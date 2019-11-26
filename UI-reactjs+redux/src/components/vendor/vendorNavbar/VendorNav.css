@@ -1,0 +1,21 @@
+.navbartitle {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .navbartitle:hover {
+    text-decoration: none;
+    color: white;
+  }
+  .navlinks {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .navlinks:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  

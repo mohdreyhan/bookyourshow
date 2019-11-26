@@ -1,0 +1,9 @@
+.threatrelist {
+    text-decoration: none;
+    color : black;
+}
+
+.threatrelist:hover
+{
+    color : black
+}
